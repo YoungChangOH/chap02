@@ -9,7 +9,7 @@ public class StringExample {
 		String str1 = "";  //empty string
 		String str2 = "Hello";
 		String str3 = "\"Hello\"";
-		String str4 = "\"Hello\n World\r\n Wellcome to the\"";
+		String str4 = "\"Hello\n World\"";
 				
 		System.out.println(str1);
 		System.out.println(str2);
